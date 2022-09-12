@@ -41,6 +41,7 @@ div{
     background-color: #FF0000;
     text-align: right;
     margin-left: 50px;
+    border:none;
     border-left: solid 5px;
     border-bottom: solid 2px;
     color:#FFFFFF;
@@ -49,8 +50,9 @@ div{
     background-color: #0000FF;
     text-align: left;
     margin-right: 50px;
-    border-left: solid 5px;
-    border-bottom: solid 2px;
+    border:none;
+    border-right: solid 5px;
+    border-top: solid 2px;
 }
 .blue h2, .blue p{
     color: #C4C4C4;
@@ -60,6 +62,7 @@ div{
     background-color: #FFFF00;
     text-align: right;
     margin-left: 50px;
+    border:none;
     border-left: solid 5px;
     border-bottom: solid 2px;
 }
@@ -70,8 +73,9 @@ div{
     background-color: #228b22;
     text-align: left;
     margin-right: 50px;
-    border-left: solid 5px;
-    border-bottom: solid 2px;
+    border:none;
+    border-right: solid 5px;
+    border-top: solid 2px;
 }
 footer{
     background:linear-gradient(to right, #000000, #0000ff 25%, #0066ff 70%, #000000);
