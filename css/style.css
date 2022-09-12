@@ -82,10 +82,10 @@ div{
 footer{
     background:linear-gradient(to right, #000000, #0000ff 25%, #0066ff 70%, #000000);
     border: solid 5px #FFFFFF;
-    font-size:none;
-    font-size: 20px;
     text-align:right;
-    padding:none;
+}
+.footer p{
+    font-size: 20px;
     padding-top: 15px;
     padding-right: 15px;
     padding-bottom: 15px;
