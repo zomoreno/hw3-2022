@@ -70,7 +70,7 @@ div{
     color:#707070;
 }
 .green{
-    background-color: #228b22;
+    background-color: #008500;
     text-align: left;
     margin-right: 50px;
     border:none;
@@ -82,5 +82,7 @@ footer{
     border: solid 5px #FFFFFF;
     font-size: 20px;
     text-align:right;
-    padding: 15px,15px,15px,0px
+    padding-top: 15px;
+    padding-right: 15px;
+    padding-bottom: 15px;
 }
