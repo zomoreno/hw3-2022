@@ -1,2 +1,2 @@
-# hw32-2022
-HW 3
+# hw3_simple_css
+Starter code for simple css assignment

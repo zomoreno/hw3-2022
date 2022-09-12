@@ -1,0 +1,82 @@
+body{
+    font-family: Arial, Verdana;
+    color: #FFFFFF;
+    background-color: #000000;
+    font-size: 20px;
+    margin: 20px 20px 0px 20px;
+}
+h1{
+    font-size: 42px;
+    text-align: center;
+    padding: 15px;
+}
+h2{
+    font-size: 30px;
+    color: #0D0D0D;
+}
+p{
+    font-size: 24px;
+    padding-top: 10px;
+    padding-left: 10px;
+    color: #FFFFFF;
+
+}
+img{
+    width: 250px;
+    border: dashed 10px #FFFFFF;
+    display: block;
+    margin: auto;
+}
+div{
+    padding: 20px;
+    border: solid 3px #FFFFFF;
+    min-height: 125px
+}
+.introduction{
+    border-radius: solid 15px;
+    margin-top: 15px;
+    line-height: 2;
+}
+.red{
+    background-color: #FF0000;
+    text-align: right;
+    margin-left: 50px;
+    border-left: solid 5px;
+    border-bottom: solid 2px;
+    color:#FFFFFF;
+}
+.blue{
+    background-color: #0000FF;
+    text-align: left;
+    margin-right: 50px;
+    border-left: solid 5px;
+    border-bottom: solid 2px;
+}
+.blue h2, .blue p{
+    color: #C4C4C4;
+}
+
+.yellow{
+    background-color: #FFFF00;
+    text-align: right;
+    margin-left: 50px;
+    border-left: solid 5px;
+    border-bottom: solid 2px;
+}
+.yellow p{
+    color:#707070;
+}
+.green{
+    background-color: #228b22;
+    text-align: left;
+    margin-right: 50px;
+    border-left: solid 5px;
+    border-bottom: solid 2px;
+}
+footer{
+    background:linear-gradient(to right, #000000, #0000ff 25%, #0066ff 70%, #000000);
+    border: solid 5px #FFFFFF;
+    font-size: 20px;
+    text-align:right;
+    padding: 15px,15px,15px,0px
+}
